@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishalpsit" alt="vishalpsit" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [vishal-gautam-portfolio.netlify.app](vishal-gautam-portfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [vishal-gautam-portfolio.netlify.app](gautam-vishal.netlify.app)
 
 - 📫 How to reach me **vishal.psit2213663@gmail.com**
 
