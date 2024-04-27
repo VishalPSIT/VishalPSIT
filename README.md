@@ -3,7 +3,7 @@
 <h3 align="center">Solving problem one line at a time.</h3>
 
 - 👨‍💻 All of my projects are available at [https://gautam-vishal.netlify.app/](https://gautam-vishal.netlify.app/)
-<img alt="coding" src="https://private-user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQxODk0NzYsIm5iZiI6MTcxNDE4OTE3NiwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA2OTItMGIzMzUwMjgtMWQzZC00ZWU1LWI1YjMtYTM3M2Q0OTliZTdlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDI3VDAzMzkzNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNkNjUxNjJiOWNjYzZjYzdmZmE2ZDNmMjE4YTFiOTdlNGM3YjNmMDFjZmZhODAzNTI1Yzg4ODY1ZWM2MjBlYmEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.zqTnk3miTXyOUGjXaXtjgFNZpkAd40n2qjw2CPugnHA" align="right" width="300px"></img>
+<img alt="coding" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" align="right" width="400px"></img>
 - 📫 How to reach me **vishal.psit2213663@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
